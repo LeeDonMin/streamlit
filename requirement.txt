@@ -88,6 +88,11 @@ smmap==5.0.1
 stack-data==0.6.3
 streamlit==1.39.0
 streamlit_folium==0.23.0
+sympy @ file:///C:/b/abs_82njkonm7f/croot/sympy_1701397685028/work
+tables @ file:///C:/b/abs_411740ajo7/croot/pytables_1705614883108/work
+tabulate @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/tabulate_1701812852133/work
+tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
+tenacity @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/tenacity_1699483390626/work
 sympy==1.13.0
 tbb==2021.13.0
 tenacity==9.0.0
